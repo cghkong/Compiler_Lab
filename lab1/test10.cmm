@@ -1,0 +1,4 @@
+int main() {
+	// comment
+	float x=0.34;
+}
